@@ -8,7 +8,7 @@
 
 ![Screenshot](https://github.com/AndrewVargas1991/Colocar-senha-em-PDF/blob/main/imagens/Tela%20da%20senha.png)
 
-- Se você digitar a senha errada, aparecerá a seguinte mensagem (sso muda dependendo do seu leitor de PDFs, que na imagem abaixo é o Acrobat Reader):
+- Se você digitar a senha errada, aparecerá a seguinte mensagem (isso muda dependendo do seu leitor de PDFs, que na imagem abaixo é o Acrobat Reader):
 
 ![Screenshot](https://github.com/AndrewVargas1991/Colocar-senha-em-PDF/blob/main/imagens/Tela%20senha%20incorreta.png)
 
