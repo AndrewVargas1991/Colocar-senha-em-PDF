@@ -1,0 +1,11 @@
+Instruções de uso do programa de para colocar senha em arquivos PDF
+
+OBS: Caso você não tenha a biblioteca PyPDF2 instalada, abra o Processador de comandos (CMD) e digite o seguinte comando:
+pip insall PyPDF2
+
+1- Abra o programa "Colocar senha em PDF.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Selecione arrastando para dentro do console (tela preta) o arquivo no formato PDF que você deseja encriptar;
+
+3- Digite a senha e aperte ENTER.
